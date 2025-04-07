@@ -1,0 +1,7 @@
+pandas
+PySide6
+matplotlib
+Pillow
+reportlab
+python-dotenv
+requests
